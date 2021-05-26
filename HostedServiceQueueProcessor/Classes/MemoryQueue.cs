@@ -2,7 +2,7 @@
 using System.Threading;
 
 namespace HostedServiceQueueProcessor.Classes {
-    public abstract class MemoryQueue {
+    public class MemoryQueue {
 
         #region Private Fields
 
